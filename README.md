@@ -4,6 +4,6 @@ privacy enthusiast and free software advocate
 
 i know how to type (professional developer)
 
-arch btw
+matrix: @bonger:monero.social
 
-if you wanna contact me DM me on @bonger:monero.social (discord bad spyware)
+arch btw
