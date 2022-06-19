@@ -1,9 +1,24 @@
-### For whomever it may concern, my nuts hang.
+# For whomever it may concern, my nuts hang.
 
-privacy enthusiast and free software advocate
+i know how to type (great skill)
 
-i know how to type (professional developer)
+# software i use
 
+os: arch linux
+
+wm: openbox
+
+terminal: alacritty
+
+text editor: vim
+
+image viewer: ristretto
+
+multimedia player: mpv
+
+file manager: pcmanfm
+
+web browser: gnu icecat
+
+# contact
 matrix: @bonger:monero.social
-
-arch btw
