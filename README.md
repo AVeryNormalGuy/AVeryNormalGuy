@@ -1,5 +1,7 @@
 # For whomever it may concern, my nuts hang.
 
+libre software gang
+
 i know how to type (great skill)
 
 # software i use
