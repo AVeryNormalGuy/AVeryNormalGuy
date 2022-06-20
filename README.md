@@ -22,3 +22,5 @@ web browser: gnu icecat
 
 # contact
 matrix: @bonger:monero.social
+
+discord: Bongo#8748
