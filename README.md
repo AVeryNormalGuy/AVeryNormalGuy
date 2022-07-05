@@ -14,13 +14,13 @@ terminal: alacritty
 
 text editor: vim
 
-image viewer: ristretto
+image viewer: feh
 
 multimedia player: mpv
 
-file manager: pcmanfm
+file manager: lf
 
-web browser: gnu icecat
+web browser: gnu icecat (switching to qutebrowser soon)
 
 # contact
 matrix: @bonger:monero.social
