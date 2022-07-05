@@ -26,3 +26,5 @@ web browser: gnu icecat (switching to qutebrowser soon)
 matrix: @bonger:monero.social
 
 discord: Bongo#8748
+
+email: bongoisprettycool@danwin1210.de
