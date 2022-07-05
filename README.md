@@ -8,7 +8,7 @@ i know how to type (great skill)
 
 os: arch linux
 
-wm: openbox
+wm: openbox (switching to dwm soon)
 
 terminal: alacritty
 
