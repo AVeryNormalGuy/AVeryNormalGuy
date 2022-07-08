@@ -6,7 +6,7 @@ i know how to type (great skill)
 
 # software i use
 
-os: void linux + bedrock (arch strata)
+os: void linux + bedrock with arch strata (once freebsd supports my wifi drivers, i will switch to it asap)
 
 wm: openbox (switching to dwm soon)
 
