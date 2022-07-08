@@ -6,7 +6,7 @@ i know how to type (great skill)
 
 # software i use
 
-os: arch linux
+os: void linux + bedrock (arch strata)
 
 wm: openbox (switching to dwm soon)
 
