@@ -6,9 +6,9 @@ i know how to type (great skill)
 
 # software i use
 
-os: void linux + bedrock with arch strata (once freebsd supports my wifi drivers, i will switch to it asap)
+os: arch linux
 
-wm: openbox (switching to dwm soon)
+wm: openbox
 
 terminal: alacritty
 
@@ -20,7 +20,7 @@ multimedia player: mpv
 
 file manager: lf
 
-web browser: gnu icecat (switching to qutebrowser soon)
+web browser: abrowser
 
 # contact
 matrix: @bonger:monero.social
