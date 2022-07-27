@@ -8,7 +8,7 @@ i know how to type (great skill)
 
 os: artix linux
 
-wm: openbox
+wm: dwm
 
 terminal: alacritty
 
