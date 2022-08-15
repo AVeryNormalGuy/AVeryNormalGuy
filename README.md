@@ -6,13 +6,13 @@ i know how to type (great skill)
 
 # software i use
 
-os: artix linux
+os: void linux glibc variant 
 
 wm: dwm
 
-terminal: alacritty
+terminal: st
 
-text editor: vim
+text editor: vis
 
 image viewer: feh
 
@@ -20,7 +20,7 @@ multimedia player: mpv
 
 file manager: lf
 
-web browser: abrowser
+web browser: hardened firefox, mainly because void repository maintainers are assholes and they won't add a proper fork like GNU Icecat or Librewolf
 
 # contact
 matrix: @bonger:monero.social
